@@ -13,3 +13,11 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+___
+### Проекты:
+
+| React App                                                       |Source code|Live Demo|
+| ----------------------------------------------------------------| :---------------: |-------|
+|  SPA на React для сервиса покупки билетов на ж/д, свёрстанное по макетам в Figma                          |https://github.com/AnastasiiaKorch/fe-diplom-new |https://anastasiiakorch.github.io/fe-diplom-new/|
+___
+<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnastasiiaKorch&layout=compact&theme=vision-friendly-light" />
