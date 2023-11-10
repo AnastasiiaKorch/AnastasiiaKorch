@@ -21,7 +21,7 @@ ___
 |  SPA на React для сервиса покупки билетов на ж/д, свёрстанное по макетам в Figma                          |https://github.com/AnastasiiaKorch/fe-diplom-new |https://anastasiiakorch.github.io/fe-diplom-new/|
 |SPA на React навигационное меню|https://github.com/AnastasiiaKorch/ra16-router-menu|https://anastasiiakorch.github.io/ra16-router-menu/|
 |Базовый CRUD React без обновления при работе с HTTP|https://github.com/AnastasiiaKorch/react-crud.git||
-|jjj|kkk|kkkk    |
+|||   |
 ___
 <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnastasiiaKorch&layout=compact&theme=vision-friendly-light" />\
 
