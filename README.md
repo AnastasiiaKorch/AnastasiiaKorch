@@ -21,9 +21,13 @@ ___
 |  SPA на React для сервиса покупки билетов на ж/д, свёрстанное по макетам в Figma                          |https://github.com/AnastasiiaKorch/fe-diplom-new |https://anastasiiakorch.github.io/fe-diplom-new/|
 |SPA на React навигационное меню|https://github.com/AnastasiiaKorch/ra16-router-menu|https://anastasiiakorch.github.io/ra16-router-menu/|
 |Базовый CRUD React без обновления при работе с HTTP|https://github.com/AnastasiiaKorch/react-crud.git||
-|||   |
+|ToDo List на JS|https://github.com/AnastasiiaKorch/ahj-DnD-new.git| https://anastasiiakorch.github.io/ahj-DnD-new/  |
+|Timeline JS с запросом координат пользователя (через Geolocation API)|https://github.com/AnastasiiaKorch/ahj-media.git|https://anastasiiakorch.github.io/ahj-media/|
+|Game "whac-a-goblin"|https://github.com/AnastasiiaKorch/ahj-event.git|https://anastasiiakorch.github.io/ahj-event/|
+|Верстка макета сайта для трёх групп устройств: десктопные экраны, планшеты и смартфоны|https://github.com/AnastasiiaKorch/mq-diploma.git|https://anastasiiakorch.github.io/mq-diploma/|
 ___
-<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnastasiiaKorch&layout=compact&theme=vision-friendly-light" />\
+<img height="195px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnastasiiaKorch&layout=compact&theme=vision-friendly-light" />
 
 ___
-### Связь со мной:
+### Контакты:
+[@anastasiia_korch](t.me/anastasiia_korch)<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" title="telegram" alt="telegram" width="40" height="40">
