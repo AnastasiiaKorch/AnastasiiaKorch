@@ -30,4 +30,6 @@ ___
 
 ___
 ### Контакты:
-[@anastasiia_korch](t.me/anastasiia_korch)<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" title="telegram" alt="telegram" width="40" height="40">
+<img src="https://cdn.icon-icons.com/icons2/923/PNG/256/telegram_icon-icons.com_72055.png" title="telegram" alt="telegram" width="40" height="40">[@anastasiia_korch](https://t.me/anastasiia_korch)  
+<br/><br/>
+<img src="https://cdn.icon-icons.com/icons2/294/PNG/256/Mail_31108.png" title="mail" alt="mail" width="40" height="40"> anastasia_92_92@list.ru
