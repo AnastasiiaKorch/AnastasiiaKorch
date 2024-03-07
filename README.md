@@ -20,6 +20,7 @@ ___
 | ----------------------------------------------------------------| :---------------: |-------|
 |  SPA на React для сервиса покупки билетов на ж/д, свёрстанное по макетам в Figma                          |https://github.com/AnastasiiaKorch/fe-diplom-new |https://anastasiiakorch.github.io/fe-diplom-new/|
 |Интернет-магазин техники реализован с помощью postgreSQL+express+React+Node.js.     |https://github.com/AnastasiiaKorch/online-store.git|
+|Крипто-трекер на React, реализованный с помощью ant design|https://github.com/AnastasiiaKorch/react-crypto-app.git|https://anastasiiakorch.github.io/react-crypto-app/|
 |SPA на React навигационное меню|https://github.com/AnastasiiaKorch/ra16-router-menu|https://anastasiiakorch.github.io/ra16-router-menu/|
 |Базовый CRUD React без обновления при работе с HTTP|https://github.com/AnastasiiaKorch/react-crud.git||
 |ToDo List на JS|https://github.com/AnastasiiaKorch/ahj-DnD-new.git| https://anastasiiakorch.github.io/ahj-DnD-new/  |
